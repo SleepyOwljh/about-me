@@ -1,3 +1,4 @@
 # About Me
 * My name is Junhao
-* major Business & Computing
+* Major Business & Computing
+* I like reading!
